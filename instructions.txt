@@ -1,0 +1,106 @@
+=== XYZ Institute of Technology (XYZIT), Metropolis ===
+
+1. General Information
+   - Name: XYZ Institute of Technology (XYZIT)
+   - Established: 2000
+   - Managed by: ABC Educational Trust
+   - Affiliated to: Metropolis State University (MSU)
+   - Approved by: National Technical Council (NTC), State Education Board
+   - NAAC Accreditation: A Grade
+   - NBA Accreditation: Select Programs
+   - Location: Plot No. 123, Main Tech Road, Sector 9, Metropolis, 100001, Country
+   - Website: https://xyzit.edu.example
+   - Contact: +00 12345 67890 | Email: info@xyzit.edu.example
+
+2. Courses Offered
+   Undergraduate (B.Tech.):
+   - Computer Science and Engineering
+   - Information Systems
+   - Electronics Engineering
+   - Electrical and Power Systems
+   - Mechanical Design and Automation
+
+   Postgraduate (M.Tech. / MBA / MCA):
+   - M.Tech. Computer Networks
+   - M.Tech. Embedded Systems
+   - M.Tech. Machine Design
+   - M.Tech. Thermal Engineering
+   - MBA (Business Management)
+   - MCA (Applied Computing)
+
+3. Admissions (2025)
+   - UG: Based on State Entrance Test / National Engineering Exam, centralized process via State Board
+   - PG: Through GATE (for M.Tech.), State MBA Entrance (for MBA), State MCA Test (for MCA)
+   - Eligibility: Minimum 50% (General), 45% (Reserved) in PCM for UG; Relevant Bachelor's degree for PG
+
+4. Fee Structure (2024–25 Approx.)
+   - B.Tech.: $1,200/year ($4,800 total for 4 years)
+   - M.Tech.: $1,000–$1,200/year
+   - MBA: $1,300/year
+   - MCA: $1,100/year
+   - Scholarships: Merit-based, Need-based, Reserved Category, Special Grants
+
+5. Placement Statistics (2023–24)
+   - Placement Rate: 80–85%
+   - Total Companies Visited: 150+
+   - Highest Package: $25,000/year
+   - Average Package: $7,000/year
+   - Lowest Package: $4,000/year
+   - Top Recruiters: AlphaTech, BetaSoft, GammaWorks, DeltaLogic, Epsilon Systems
+
+6. Faculty Strength
+   - Total Faculty: 100+
+   - Qualifications: M.Tech / Ph.D. across departments
+   - Notable: Dr. X. Y. Zed (Principal), multiple PhDs in core departments
+   - Faculty Student Ratio: 1:16
+
+7. Infrastructure & Facilities
+   - Classrooms: Smart boards, projectors
+   - Labs: Department-specific labs, innovation lab, language lab
+   - Auditorium & Conference Halls
+   - Workshop: Precision machines, prototyping tools
+   - Hostels: Separate for boys & girls with Wi-Fi, mess, study area
+   - Transport: Buses from various city points
+   - Cafeteria: Hygienic and multi-cuisine
+
+8. Library (Central Library)
+   - Area: 800+ sq.m.
+   - Books: 35,000+ volumes
+   - Journals: 120+ national & international
+   - E-Resources: TechLibrary, JSTOR, IEEE, MOOC platforms
+   - Reading Room: 24x7 during exams
+   - Digital Library: Online resources & subscriptions
+
+9. Research & Innovation
+   - Recognized Research Centers in Engineering & Science
+   - Funded Projects: National Research Fund, Local Government Grants
+   - MoUs: Industry collaboration for live projects
+   - Student Achievements: Hackathons, Innovation Fairs, Research Grants
+   - Patents: Multiple filed and published
+
+10. Clubs & Student Activities
+   - Technical: Coding Club, AI Society, IoT Group, Cyber League, AutoCrew
+   - Cultural: Drama Society, Music Band, Dance Club, Photography Circle
+   - Sports: Football, Basketball, Chess, Table Tennis
+   - NSS: Social outreach, drives, and volunteering
+
+11. College Timings
+   - Academic Hours: 09:00 AM to 04:30 PM (Monday to Friday)
+   - Library: 09:00 AM to 07:00 PM (reading room till 09:00 PM)
+
+12. Institutional Social Responsibility
+   - Entrance Exam Coaching
+   - Annual Health Check Programs
+   - Rural Digital Literacy Campaign
+
+13. Additional Info
+   - Hostel Fee: $300–$400/year (excluding mess)
+   - Mess Charges: $40–$50/month
+   - Annual Tech Fest: TechPulse
+   - Annual Cultural Fest: Vibez
+   - IQAC: Continuous monitoring, feedback systems
+
+14. HOD of Branches
+   - Prof. A. B. Example is the HOD of AI and Data Science.
+
+=== End of File ===
