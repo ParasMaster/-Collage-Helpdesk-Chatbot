@@ -1,4 +1,4 @@
-# -Collage-Helpdesk-Chatbot
+# Collage-Helpdesk-Chatbot
 This is a simple, customizable AI chatbot built using *Python, **Streamlit, and **Google Gemini API*. It was created as a learning project and is designed to act like a college help desk assistant — but can be trained to do anything!
 ---
 ## 🚀 Features
